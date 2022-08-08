@@ -2,10 +2,13 @@
 
 Nara's Portfolio Website built with ReactJS
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Table of Contents 
 
 - [Description](#description)
 - [User Story](#user-story)
+- [License](#license)
 - [Solution](#solution)
 - [Live](#live)
 
@@ -29,6 +32,12 @@ AS AN employer looking for candidates with experience building single-page appli
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 ```
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+🏆 This application is licensed under the MIT License.
 
 ## Solution
 
