@@ -65,24 +65,24 @@ figcaption{
   margin: 0px 10px;
 }
 
-.card {
+.mycard {
   margin: 10px;
   opacity: 85%;
 }
 
-.card h4 {
+.mycard h4 {
   margin: 0px;
   background: var(--sapphire);
   color: var(--white);
 }
 
-.card h6 {
+.mycard h6 {
   margin: 0px;
   background: var(--sapphire);
   color: var(--white);
 }
 
-.card:hover {
+.mycard:hover {
   opacity: 100%;
 }
 
