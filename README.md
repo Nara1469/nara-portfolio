@@ -14,10 +14,11 @@ Nara's Portfolio Website built with ReactJS
 
 ## Description
 
-I upgraded my portfolio webpage using my React skills. It is a single-page application built completely from scratch and deployed to Heroku. This application uses the following packages and dependencies: 
+I upgraded my portfolio webpage using my React skills. It is a single-page application built completely from scratch and deployed to GitHub Page. This application uses the following packages and dependencies: 
 - [create-react-app](https://create-react-app.dev)
+- [react-bootstrap](https://react-bootstrap.github.io/)
+- [bootstrap](https://getbootstrap.com/)
 - [Material UI library](https://mui.com/) 
-- [Bootstrap](https://getbootstrap.com/)
 
 From the design side, here are a few challenges I decided to take:
 
