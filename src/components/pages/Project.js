@@ -1,9 +1,9 @@
 import React from 'react';
-import ImageProject1 from "../images/mapped-event-tracker.png"
-import ImageProject2 from "../images/financial-statement-analysis.png"
-import ImageTechBlog from "../images/tech-blog.png"
-import ImageWeather from "../images/weather-dashboard.png"
-import { Image ,Button  ,Row ,Col } from "react-bootstrap";
+import ImageProject1 from "../images/mapped-event-tracker.png";
+import ImageProject2 from "../images/financial-statement-analysis.png";
+import ImageTechBlog from "../images/tech-blog.png";
+import ImageWeather from "../images/weather-dashboard.png";
+// import { Image ,Button  ,Row ,Col } from "react-bootstrap";
 
 export default function Project() {
   return (

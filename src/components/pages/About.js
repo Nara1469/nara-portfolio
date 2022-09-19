@@ -1,6 +1,6 @@
 import React from 'react';
-import ImageCoding from "../images/coding-languages.jpg"
-import ImageProfile from "../images/profile-picture.jpeg"
+import ImageCoding from '../images/coding-languages.jpg';
+import ImageProfile from '../images/profile-picture.jpeg';
 import Icons from './Icons';
 
 export default function About() {
